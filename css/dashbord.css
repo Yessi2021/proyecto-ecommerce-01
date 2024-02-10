@@ -1,0 +1,13 @@
+
+:root {
+    --color-primary: #e9f6f2;
+    --text-principal:  #4ea388;
+}
+
+.body_background {
+    background: var(--color-primary) !important;
+}
+
+.text_principal  {
+    color: var(--text-principal) !important;
+}
