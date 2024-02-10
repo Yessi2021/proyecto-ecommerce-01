@@ -1,10 +1,5 @@
-/*
 
-TemplateMo 559 Zay Shop
 
-https://templatemo.com/tm-559-zay-shop
-
-*/
 
 'use strict';
 $(document).ready(function() {
